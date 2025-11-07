@@ -36,11 +36,8 @@ If you did test:
 
 **Tested on:** [e.g., "patternfly-react repo", "my work project", or "Not tested - no suitable codebase available"]
 
-**What worked:**
--
+> **What worked:**
+   
+> **What needs improvement:**
 
-**What needs improvement:**
--
-
-**Edge cases or limitations:**
--
+> **Edge cases or limitations:**
